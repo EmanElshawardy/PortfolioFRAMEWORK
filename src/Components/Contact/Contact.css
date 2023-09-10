@@ -1,0 +1,16 @@
+.bg{
+    background-color:#1abc9c;
+} 
+input.form-control:focus {
+    box-shadow: none;
+} 
+label {
+  margin-bottom: 7px;
+    color: #1abc9c; 
+  }
+  .labelTitle2{
+    visibility: hidden;
+  }
+  .labelTitle{
+    visibility: visible;
+  }

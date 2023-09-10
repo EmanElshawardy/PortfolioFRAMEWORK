@@ -1,0 +1,14 @@
+.nav-link:focus-visible {
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem #0d6efd40;
+}
+.linkActive {
+  display: block;
+  align-items: center;
+  background-color: #1abc9c;
+  padding: 0.5rem;
+  text-decoration: none;
+  border: 0;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out;
+}
